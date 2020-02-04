@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Zjazd9_uzupelnienie
 {
+    [Flags]
     public enum GrupaWiekowa
     {
         Brak = 0, // 0000
